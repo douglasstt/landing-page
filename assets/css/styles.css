@@ -73,11 +73,7 @@
 
 .pricing {
     max-width: 60rem;
-    display: flex;
-    flex-flow: column wrap;
-    justify-content: center;
-    min-height: 100vh;
-    text-align: center;
+    align-items: center;
 }
 
 .contact {
