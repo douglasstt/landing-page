@@ -178,9 +178,9 @@
         grid-template-columns: 1fr;
     }
 
-.main-content h2 {
-font-size: 2rem
-}
+    .main-content h2 {
+        font-size: 2rem
+    }
 
     .gallery-img {
         width: 100%;
